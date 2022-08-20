@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "824301083617",
+    "project_id": "loginusingfirebaseviewpr",
+    "storage_bucket": "loginusingfirebaseviewpr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824301083617:android:fffe05c937e0c51a1cd0a0",
+        "android_client_info": {
+          "package_name": "com.googleloginusingfirebaseandviewprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824301083617-bu23jopagf66coir5839grc8l20o834s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googleloginusingfirebaseandviewprofile",
+            "certificate_hash": "0aaa0b5a2dcd186dfc7c9124d17ceb1496d80c41"
+          }
+        },
+        {
+          "client_id": "824301083617-rg2kskn269qciul4gukfom61pmdh1bko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googleloginusingfirebaseandviewprofile",
+            "certificate_hash": "2ca3a2e543e4c4050c620069494d13caa6eefed1"
+          }
+        },
+        {
+          "client_id": "824301083617-un648qo6qhockmcqkr9uah5hh3b16vla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdfiOKDrMscuaM-IM2yn0uF_nsdVFjjHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824301083617-un648qo6qhockmcqkr9uah5hh3b16vla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
